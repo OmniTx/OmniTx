@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ater Effects and Premire Pro
 - 💞️ I’m looking to collaborate on which I can understand
 - 📫 How to reach me by mail, heroimran175@gmail.com
-
+- 🔗 For finding more about me, https://linktr.ee/immekun
 <!---
 OmniTx/OmniTx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
