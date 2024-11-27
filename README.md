@@ -15,7 +15,7 @@ I specialize in **video editing** and have advanced skills in **After Effects**,
 
 I'm always looking for opportunities to collaborate and leverage my expertise.
 
-Feel free to reach out to me at **heroimran175@gmail.com**. For more about me, you can visit [linktr.ee/immekun](https://github.com/OmniTx/).
+Feel free to reach out to me at **heroimran175@gmail.com**. For more about me, you can visit [linktr.ee/immekun](https://linktr.ee/immekun).
 
 ## Projects
 - **WallpaperCopier**: A PowerShell script that creates a graphical user interface (GUI) to copy your Windows wallpaper to a selected directory with a unique filename. It supports both light and dark themes and saves user settings for convenience.
