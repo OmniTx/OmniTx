@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @OmniTx
-- 👀 I’m interested in Video Editing, and this is my onother hobby.
-- 🌱 I’m currently learning Ater Effects and Premire Pro
-- 💞️ I’m looking to collaborate on which I can understand
-- 📫 How to reach me by mail, heroimran175@gmail.com
-- 🔗 For finding more about me, https://linktr.ee/immekun
+# OmniTx
+
+Hi, I'm **@OmniTx**!
+
+I specialize in **video editing** and have advanced skills in **After Effects**, **Premiere Pro**, **Photoshop**, and **Audition**. Additionally, I have experience working with:
+
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+- ![Windows Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=flat&logo=windows&logoColor=white)
+
+I'm always looking for opportunities to collaborate and leverage my expertise.
+
+Feel free to reach out to me at **heroimran175@gmail.com**. For more about me, you can visit [linktr.ee/immekun](https://github.com/OmniTx/).
+
+## Projects
+- **pixiwps**: Public Python projects
+- **Windows**: Windows tweaking platform with optimization scripts
+
 <!---
 OmniTx/OmniTx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
