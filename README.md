@@ -18,8 +18,9 @@ I'm always looking for opportunities to collaborate and leverage my expertise.
 Feel free to reach out to me at **heroimran175@gmail.com**. For more about me, you can visit [linktr.ee/immekun](https://linktr.ee/immekun).
 
 ## Projects
-- **WallpaperCopier**: A PowerShell script that creates a graphical user interface (GUI) to copy your Windows wallpaper to a selected directory with a unique filename. It supports both light and dark themes and saves user settings for convenience.
-- **pixiwps**: Public Python projects
+- **WallpaperCopierApp**: Wallpaper Copier is a simple and intuitive tool designed to help you manage and save your desktop wallpapers effortlessly. Switch between light and dark themes and ensure your favorite wallpapers are saved with unique filenames.
+- **VolumeControl**: Gives Windows 10 users control volume only with scroll, hovering over the sound icon in taskbar.
+- **pixiwps**: Python projects
 - **Windows**: Windows tweaking platform with optimization scripts
 
 <!---
