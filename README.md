@@ -3,8 +3,8 @@
 <!-- Animated Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=OmniTx&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Animated Hello -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+OmniTx+%F0%9F%91%8B;Creative+Video+Editor+%F0%9F%8E%AC;Full+Stack+Developer+%F0%9F%92%BB;Windows+Automation+Wizard+%E2%9C%A8" alt="Typing SVG" /></a>
+<!-- Animated Hello - Fixed width to prevent clipping -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+OmniTx+%F0%9F%91%8B;Creative+Video+Editor+%F0%9F%8E%AC;Full+Stack+Developer+%F0%9F%92%BB;Windows+Automation+Wizard+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <!-- Profile Badges -->
 <p>
@@ -13,15 +13,6 @@
 <a href="https://github.com/OmniTx"><img src="https://img.shields.io/badge/Open%20to-Collaborations-brightgreen?style=flat&logo=github" alt="Open to collaborations"></a>
 </p>
 
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmniTx/OmniTx/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmniTx/OmniTx/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/OmniTx/OmniTx/output/github-snake.svg" />
-  </picture>
 </div>
 
 ---
@@ -91,14 +82,6 @@ const omniTx = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmniTx&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,8 +89,17 @@ const omniTx = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmniTx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmniTx&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
 
+</div>
+
+<div align="center">
+  
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmniTx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=c9d1d9" />
 
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OmniTx&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <!-- Activity Graph -->
@@ -119,29 +111,56 @@ const omniTx = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmniTx&repo=WallpaperCopierApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3)](https://github.com/OmniTx/WallpaperCopierApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmniTx&repo=VolumeControl&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3)](https://github.com/OmniTx/VolumeControl)
+### 🖼️ WallpaperCopierApp
+A sleek desktop tool for managing wallpapers with ease!
+- 🎨 Light/Dark theme support
+- 💾 Smart filename handling
+- ⚡ Intuitive interface
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmniTx&repo=pixiwps&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3)](https://github.com/OmniTx/pixiwps)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmniTx&repo=Windows-Tweaking-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3)](https://github.com/OmniTx/Windows-Tweaking-Platform)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmniTx/WallpaperCopierApp)
 
-</div>
+</td>
+<td width="50%">
 
-<details>
-<summary><b>✨ Click to see what each project does!</b></summary>
+### 🔊 VolumeControl
+Windows 10 volume control, reimagined!
+- 🖱️ Scroll-to-control volume
+- 🎯 Hover over taskbar icon
+- 🚀 Lightweight & efficient
 
-<br>
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmniTx/VolumeControl)
 
-| Project | Description | Highlights |
-|---------|-------------|------------|
-| 🖼️ **WallpaperCopierApp** | A sleek desktop tool for managing wallpapers | Light/Dark theme • Smart filename handling • Intuitive UI |
-| 🔊 **VolumeControl** | Windows 10 volume control, reimagined! | Scroll-to-control • Taskbar hover • Lightweight |
-| 🐍 **pixiwps** | Python-powered utilities and tools | Custom scripts • Modular design • Open source |
-| 🪟 **Windows Tweaking Platform** | Optimize your Windows experience | Safe tweaks • Reversible changes • Performance boost |
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-</details>
+### 🐍 pixiwps
+Python-powered utilities and tools
+- � Custom automation scripts
+- 📦 Modular design
+- 🌟 Open to contributions
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmniTx/pixiwps)
+
+</td>
+<td width="50%">
+
+### 🪟 Windows Tweaking Platform
+Optimize your Windows experience!
+- ⚙️ System optimization scripts
+- 🔒 Safe & reversible tweaks
+- 📈 Performance enhancements
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmniTx/Windows-Tweaking-Platform)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -152,12 +171,13 @@ const omniTx = {
 ### 🃏 Random Dev Joke
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%2370a5fd&aColor=%23bf91f3" alt="Jokes Card" />
 
-### � Random Dev Quote
+### 💭 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
-### 🎵 Currently Vibing To
-<!-- Replace with your Spotify integration if you have one -->
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=bf91f3&bar_color_cover=true" alt="Spotify" />
+### 🎵 What I'm Listening To
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xv2uceeldqov56rxwolzl6ljfy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xv2uceeldqov56rxwolzl6ljfy&redirect=true)
+
+*Don't have Spotify? No worries! I'm probably vibing to some lo-fi beats while coding* 🎧
 
 </div>
 
@@ -176,6 +196,52 @@ const omniTx = {
 
 ---
 
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> **Note**: To enable this for your profile, you need to set up a GitHub Action. See the setup instructions below!
+
+<details>
+<summary><b>🔧 How to set up the Snake Animation</b></summary>
+
+Create `.github/workflows/snake.yml` in your OmniTx repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: OmniTx
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then run the workflow manually once!
+
+</details>
+
+---
+
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on interesting projects or discuss new ideas!
@@ -191,12 +257,6 @@ I'm always excited to collaborate on interesting projects or discuss new ideas!
 <a href="https://github.com/OmniTx">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-### 💌 How to reach me:
-```
-📧 heroimran175@gmail.com
-🔗 linktr.ee/immekun
-```
 
 </div>
 
