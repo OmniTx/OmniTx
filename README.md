@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- Animated Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=OmniTx&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Animated Hello - Fixed width to prevent clipping -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+OmniTx+%F0%9F%91%8B;Creative+Video+Editor+%F0%9F%8E%AC;Full+Stack+Developer+%F0%9F%92%BB;Windows+Automation+Wizard+%E2%9C%A8" alt="Typing SVG" /></a>
 
-<!-- Profile Badges -->
 <p>
 <a href="https://github.com/OmniTx?tab=followers"><img src="https://img.shields.io/github/followers/OmniTx?label=Followers&style=social" alt="GitHub followers"></a>
 <img src="https://komarev.com/ghpvc/?username=OmniTx&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views">
@@ -35,9 +32,7 @@ const omniTx = {
         tools: ["WordPress", "Git", "Windows Automation"]
     },
     
-    dailyRoutine: function() {
-        return "Code → Coffee → Create → Repeat 🔄";
-    }
+    dailyRoutine: () => "Code → Coffee → Create → Repeat 🔄"
 };
 ```
 
@@ -46,7 +41,7 @@ const omniTx = {
 - 🎬 **Video Production Pro**: After Effects • Premiere Pro • Photoshop • Audition
 - 💻 **Code Enthusiast**: Building tools that make life easier
 - 🎯 **Mission**: Combining creativity with technology to solve real-world problems
-- ⚡ **Fun Fact**: I can spend 3 hours automating a 5-minute task... and I'd do it again! 😄
+- ⚡ **Fun Fact**: I can spend 3 hours automating a 5-minute task... and I'd do it again!
 - 🌱 Currently exploring: **AI-powered automation** & **Cloud technologies**
 
 ---
@@ -89,10 +84,6 @@ const omniTx = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmniTx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmniTx&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
 
-</div>
-
-<div align="center">
-  
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmniTx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=c9d1d9" />
 
 </div>
@@ -102,9 +93,20 @@ const omniTx = {
   <img src="https://github-profile-trophy.vercel.app/?username=OmniTx&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmniTx&custom_title=OmniTx's%20Contribution%20Graph&bg_color=0D1117&color=70a5fd&line=bf91f3&point=FFFFFF&area_color=70a5fd&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmniTx/OmniTx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmniTx/OmniTx/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/OmniTx/OmniTx/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -141,7 +143,7 @@ Windows 10 volume control, reimagined!
 
 ### 🐍 pixiwps
 Python-powered utilities and tools
-- � Custom automation scripts
+- 🔧 Custom automation scripts
 - 📦 Modular design
 - 🌟 Open to contributions
 
@@ -174,10 +176,8 @@ Optimize your Windows experience!
 ### 💭 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
-### 🎵 What I'm Listening To
+### 🎵 Currently Vibing To
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xv2uceeldqov56rxwolzl6ljfy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xv2uceeldqov56rxwolzl6ljfy&redirect=true)
-
-*Don't have Spotify? No worries! I'm probably vibing to some lo-fi beats while coding* 🎧
 
 </div>
 
@@ -185,66 +185,16 @@ Optimize your Windows experience!
 
 ## 📈 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
 ```text
 🎨 Video Editing    ████████████░░░░░░░░░░░░░   48.00 %
 💻 Python           ██████░░░░░░░░░░░░░░░░░░░   24.00 %
 ⚙️ PowerShell       ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
 🌐 Web Development  ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
 ```
-<!--END_SECTION:waka-->
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> **Note**: To enable this for your profile, you need to set up a GitHub Action. See the setup instructions below!
-
-<details>
-<summary><b>🔧 How to set up the Snake Animation</b></summary>
-
-Create `.github/workflows/snake.yml` in your OmniTx repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: OmniTx
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then run the workflow manually once!
-
-</details>
 
 ---
 
 ## 🤝 Let's Connect!
-
-I'm always excited to collaborate on interesting projects or discuss new ideas!
 
 <div align="center">
 
@@ -266,14 +216,10 @@ I'm always excited to collaborate on interesting projects or discuss new ideas!
 
 ### 💡 *"Making the world more efficient, one script at a time!"*
 
-<br>
-
-<!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-<!-- Fun Easter Egg -->
 <details>
-<summary>🥚 Secret Easter Egg</summary>
+<summary>🥚 Easter Egg</summary>
 <br>
 
 ```
@@ -291,15 +237,8 @@ I'm always excited to collaborate on interesting projects or discuss new ideas!
                                         |___/ 
 ```
 
-You found it! Here's a virtual cookie: 🍪
-
-**Fun fact**: This README took longer to make than some of my actual projects! 😄
+You found it! 🍪
 
 </details>
 
 </div>
-
-<!---
-OmniTx/OmniTx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
