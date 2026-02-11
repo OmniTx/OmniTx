@@ -14,8 +14,7 @@
         <img src="https://img.shields.io/badge/Video-Editor-bb9af7?style=for-the-badge&logo=adobe-premiere-pro&logoColor=1a1b26" />
       </p>
       <br/>
-      <b>👨‍💻 About Me</b><br/>
-      > Hi, I'm **@OmniTx**! I specialize in **video editing** (After Effects, Premiere, Photoshop) and have deep experience in full-stack dev & automation. Always open to collaborate!
+      <b>👨💻 About Me</b><br/>Hi, I'm <b>@OmniTx</b>! I specialize in <b>video editing</b> (After Effects, Premiere, Photoshop) and have deep experience in full-stack dev & automation. Always open to <b>collaborate</b>!
       <br/><br/>
       <a href="https://github.com/OmniTx"><img src="https://img.shields.io/badge/GitHub-c0caf5?style=flat-square&logo=github&logoColor=1a1b26" alt="GitHub"></a>
       <a href="mailto:imranomnitx@duck.com"><img src="https://img.shields.io/badge/Email-f7768e?style=flat-square&logo=gmail&logoColor=1a1b26" alt="Email"></a>
@@ -37,7 +36,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Websites](https://omnitx.github.io/)** | 🌐 E-commerce solutions: **[HerbsWorld](https://herbsworld.net)**, **[RabeyaBookHouse](https://rabeyabookhouse.com)**. | `HTML` `CSS` `JS` |
-| **Video & Animation** | 🎬 Professional editing. Check **[YouTube @imranah](https://www.youtube.com/@imranah)** & **[@immekun](https://www.youtube.com/@immekun)**. | `Ae` `Pr` |
+| **[Video & Animation](https://linktr.ee/immekun)** | 🎬 Professional editing. Check **[YouTube @imranah](https://www.youtube.com/@imranah)** & **[@immekun](https://www.youtube.com/@immekun)**. | `Ae` `Pr` |
 | **[WallpaperCopierApp](https://github.com/OmniTx/WallpaperCopierApp)** | 🖼️ Manage/save desktop wallpapers. Light/dark themes. | `PowerShell` |
 | **[VolumeControl](https://github.com/OmniTx/VolumeControl)** | 🔊 Volume control via taskbar scroll. Lightweight. | `AutoHotkey` |
 | **[Windows](https://github.com/OmniTx/Windows)** | 🪟 Windows tweaking & optimization scripts. | `Batch` `Reg` |
