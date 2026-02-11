@@ -6,7 +6,9 @@
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7AA2F7&left=true&vCenter=true&width=400&lines=Full+Stack+Developer;Video+Editor+%26+Creative;Automation+Wizard;Building+Digital+Solutions" alt="Typing SVG" />
       </a>
-      <br/><br/>
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=OmniTx&style=flat-square&color=7aa2f7&label=Profile+Views" alt="Profile Views" />
+      <br/>
       <p>
         <img src="https://img.shields.io/badge/Full%20Stack-Developer-7aa2f7?style=for-the-badge&logo=react&logoColor=1a1b26" />
         <img src="https://img.shields.io/badge/Video-Editor-bb9af7?style=for-the-badge&logo=adobe-premiere-pro&logoColor=1a1b26" />
@@ -46,8 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OmniTx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="130" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmniTx&theme=tokyonight&hide_border=true&background=0D1117" height="130" alt="Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmniTx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="130" alt="Languages" />
+
 </div>
 
 <div align="center">
+
   <small>© 2026 OmniTx</small>
 </div>
