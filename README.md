@@ -28,7 +28,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,powershell,windows,vscode,git,github,wordpress,mysql,cloudflare,aws,ae,pr,ps,ai,blender,au,figma&theme=dark&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,powershell,windows,vscode,git,github,wordpress,mysql,cloudflare,aws,ae,pr,ps,ai,blender,au,figma&theme=dark&perline=14" alt="Tech Stack" />
 </p>
 
 ### 🚀 Featured Projects
